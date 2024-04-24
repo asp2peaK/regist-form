@@ -1,2 +1,2 @@
 # regist-form
-Just simple registration form (HTML &amp; CSS only)
+Just a simple registration form (HTML &amp; CSS only)
